@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Appendix of some books omitted in transcribing the preceding catalogue for the press, and of some few others since come to hand</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25718</idno>
+            <idno type="STC">Wing A3571</idno>
+            <idno type="STC">ESTC R30</idno>
+            <idno type="EEBO-CITATION">13060251</idno>
+            <idno type="OCLC">ocm 13060251</idno>
+            <idno type="VID">97018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Appendix of some books omitted in transcribing the preceding catalogue for the press, and of some few others since come to hand</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Book --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appendix">
+            <pb n="1" facs="tcp:97018:1" rendition="simple:additions"/>
+            <head>An APPENDIX of ſome Books omitted in tranſcribing the preceding Ca<g ref="char:EOLhyphen"/>talogue for the Preſs, and of ſome few others ſince come to hand.</head>
+            <div type="part">
+               <list>
+                  <head>IN FOLIO.</head>
+                  <item>1 <hi>PEz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lii</hi> Mellificium Hiſtoricum, ab exordio Mundi ad an. 1649. <hi>Fr.</hi> 1649</item>
+                  <item>2 <hi>Reuſueri</hi> opus Genealogicum de Familiis Regum, principum, <hi>&amp;c. Fr.</hi> 1592</item>
+                  <item>3 <hi>Mornai</hi> Hiſtoria Papatus, <hi>Salmuri.</hi> 1611</item>
+                  <item>4 <hi>Penotti</hi> Clericorum Hiſtoria tripartita. <hi>Colon.</hi> 1630</item>
+                  <item>5 <hi>Marliani</hi> Romae topograph. <hi>Tillius</hi> de rebus Gallicis, &amp; <hi>Lupan.</hi> de Magiſt. Francor.</item>
+                  <item>6 Serres Hiſtoire de France. <hi>Pariſ.</hi> 1640</item>
+                  <item>7 <hi>C. Taciti</hi> opera, &amp; <hi>Velleius Paterculus</hi> cum Commentariis <hi>Lipſii. Plantin.</hi> 1648</item>
+                  <item>8 <hi>Montacutii</hi> Apparatus ad origines Eccleſiaſticas. <hi>Oxon.</hi> 1635</item>
+                  <item>9 —Origines Eccleſiaſticae. <hi>Lond.</hi> 1636</item>
+                  <item>10 <hi>Minſhew</hi>'s Guide to the Tongues. 1617. with his Spaniſh Dictionary.</item>
+                  <item>11 <hi>Highmori</hi> Anatomia. <hi>Haga.</hi> 1651</item>
+                  <item>12 <hi>P. Merulae</hi> Coſmographia &amp; Geographia. <hi>Amſt.</hi> 1621</item>
+                  <item>13 <hi>Joh. Gerſonis</hi> opera Baſileae. 2 Vol.</item>
+                  <item>14 <hi>Ben. Johnſon</hi>'s Works. 2 Vol. 1640</item>
+                  <item>15 <hi>Cauſin</hi>'s Holy Court. <hi>Lond.</hi> 1634</item>
+                  <item>16 <hi>Parker</hi>'s Diſc. againſt ſymboliſing with Antich. in Cerem, eſpecially the Croſs. 1607</item>
+                  <item>17 <hi>Schindleri</hi> Lexicon Pentaglotton. <hi>Francofurti.</hi> 1612</item>
+                  <item>18 Spaniſh Bible of <hi>Cyprian de Valera. Amſterdam.</hi> 1602</item>
+                  <item>19 <hi>Hugonis Grotii</hi> Comment. in Vetus Teſtamentum (Charta magna) <hi>Pariſ.</hi>
+                  </item>
+                  <item>20 —In Novum Teſtamentum, 3 Vol. <hi>Amſt.</hi> &amp; <hi>Pariſ.</hi>
+                  </item>
+                  <item>21 <hi>Nath. Wanley</hi>'s Wonders of the little World, or Hiſtory of Man. 1678</item>
+                  <item>22 <hi>Fr. Willoughby</hi> his Ornithology, or Hiſtory of Birds (with Figures) 1678</item>
+                  <item>23 <hi>Rob. Cary</hi>'s Palaeologia Chronica, A Chronolog. Account of Ancient Time. 1677</item>
+                  <item>24 <hi>Hen. Mori</hi> Opera Theologica, per Autorem, Latinè reddita. <hi>Lond.</hi> 1675</item>
+                  <item>25 <hi>Theophylacti</hi> Comm. in iv. Evang. &amp; Epiſt. D. Pauli Graec. Lat. 2 Vol. <hi>Pariſ.</hi> &amp; <hi>Lond.</hi>
+                  </item>
+                  <item>26 <hi>Fr. Geo. Veneti</hi> de Harmonia Mundi totius Cantica tria. <hi>Pariſ.</hi> 1545</item>
+                  <item>26 <hi>Fr. Liv. Galantis</hi> Comparatio Chriſtianae Theologiae cum Platon. <hi>Bonon.</hi> 1627</item>
+                  <item>27 Biblia Sacra Latina S. <hi>Hieronymi. Venetiis.</hi> 1478</item>
+                  <item>28 <hi>Pb. Ferrarii</hi> Lexicon Geographicum. <hi>Londini.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>57</item>
+                  <item>29 —Idem iterum. (Charta magna) ibid.</item>
+                  <item>30 Artis Cabaliſticae Scriptores Varii. <hi>Baſileae.</hi> 1587</item>
+                  <item>31 <hi>Plotini</hi> Opera è Graeca Ling. in Latinam Verſi M. Ficino. <hi>Baſ.</hi> 1559</item>
+                  <item>32 Monſieur <hi>Sanſon</hi>'s Geographical Deſcription of the whole World (with Maps) 1670</item>
+                  <item>33 <hi>Schroder</hi>'s Compleat Chymical Diſpenſatory. <hi>London.</hi> 1669</item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>IN QUARTO.</head>
+                  <item>1 <hi>PLatina</hi> de vitis Pontificum. <hi>Colon.</hi> 1610</item>
+                  <item>2 <hi>Gerſom Bucer</hi> de Gubernatione Eccleſiae, adverſus <hi>Downamum.</hi> 1618</item>
+                  <pb n="2" facs="tcp:97018:2"/>
+                  <item>3 <hi>Molinae</hi> liberi arbitrii concordia cum gratia. <hi>Antw.</hi> 1609</item>
+                  <item>4 <hi>Gibe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>f</hi> de libertate Dei &amp; Creaturae. <hi>Pariſ.</hi> 1630</item>
+                  <item>5 <hi>Joh. Crellii</hi> Ethica.</item>
+                  <item>6 Ethicorum Nicom. Paraphraſis Graeca, cum <hi>Heinſii</hi> Verſione. <hi>L. B.</hi> 1607</item>
+                  <item>7 Clavins in Sphaeran. <hi>Lugd.</hi> 1607</item>
+                  <item>8 <hi>E<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s</hi> in diffic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra loca Scripturae. <hi>Colon.</hi> 1622</item>
+                  <item>9 <hi>Dickſoni</hi> Expoſitio in Epiſtolas. <hi>Glaſguae.</hi> 1645</item>
+                  <item>10 Maccovius Redivivus. <hi>Franek.</hi> 1647</item>
+                  <item>11 Eju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, Loci communes. ibid. 1650</item>
+                  <item>12 <hi>Del Rio</hi> Adaglalia Sacra. 2 Vol. <hi>Lugd.</hi> 1614</item>
+                  <item>13 <hi>Vorſtius</hi> de Deo cum notis <hi>Lugd. B.</hi> 1610. &amp; ejuſdem exegeſis. 1611</item>
+                  <item>14 Ejuſdem Anti-Bellarminus contractus. 1610</item>
+                  <item>15 <hi>Iſelburgii</hi> Controverſiae inter Pontificios &amp; Proteſtantes. <hi>Bremae.</hi> 1622</item>
+                  <item>16 <hi>Amyraldi</hi> Animadverſiones in Exercitationes <hi>Spanhem.</hi> de gratia univerſali. 1648</item>
+                  <item>17 <hi>R. des Cartes</hi> Opera Philoſophica, &amp; compendium Muſicae. <hi>Amſt.</hi> 1656</item>
+                  <item>18 <hi>Euſebii</hi> &amp; aliorum Chronicon ad an. 1512. ap. H. Stephanum.</item>
+                  <item>19 <hi>Joſ Scaligori</hi> Elenchus Chronologiae D. Paraei. Heinſii varia, <hi>&amp;c. L. B.</hi> 1607</item>
+                  <item>20 <hi>Aitſingeri</hi> Pentaplus regnorum mundi. <hi>Plantin.</hi> 1589</item>
+                  <item>21 <hi>G. Hornii</hi> Hiſtoria Philoſophica. <hi>L. B.</hi> 1655</item>
+                  <item>22 <hi>Blondellus</hi> de formulae regnante Chriſto uſu. <hi>Amſt.</hi> 1646</item>
+                  <item>23 <hi>Bertii</hi> Commentaria rerum Germanicarum cum Tab. Region. &amp; Urb. <hi>Amſt.</hi> 1632</item>
+                  <item>24 <hi>Sanſovini</hi> Hiſtoria Univerſale de Turchi. <hi>Venet.</hi> 1654</item>
+                  <item>25 Opere de <hi>Galiaeo Galilai.</hi> 2 Vol. <hi>Boloniae.</hi> 1626</item>
+                  <item>26 Biſhop <hi>Andrew</hi>'s Opuſcula. <hi>Lond.</hi> 1629</item>
+                  <item>27 Hiſtoria Tamerlanis Arabice. <hi>L. B.</hi> 1636</item>
+                  <item>28 <hi>Caroli de Maets</hi> Sylva Quaeſtionum inſignium, de coma &amp; uſu capillitii. <hi>
+                        <g ref="char:V">Ʋ</g>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>j.</hi> 1650</item>
+                  <item>29 <hi>Joach. Mynſinger</hi> in 10 Libros Inſtitutionum Juris Civilis. <hi>Lugduni.</hi> 1632</item>
+                  <item>30 <hi>Frid. Spanhemii</hi> Hiſtoria Jobi. <hi>Genevae.</hi> 1670</item>
+                  <item>31 <hi>Willeb. Snellii</hi> Tiphys Batavus, ſive Hiſtiodrom. de Nav. curſib. &amp; Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>av. <hi>L. B.</hi> 1634</item>
+                  <item>32 <hi>D. Mart. Luthers</hi> Loci Communes. <hi>Londini.</hi> 1651</item>
+                  <item>33 <hi>Tho. Gatakeri</hi> Cinnus, ſive Adverſaria Miſcellanea.</item>
+                  <item>34 <hi>Pet. Heylin</hi>'s Parable of the Tares expounded and applyed in Ten Sermons. 1659</item>
+                  <item>35 ΕΙΚΩΝ ΑΚΛΑΣΤΟΣ, The Image Unbroken, in Anſw. to <hi>Jo. Milton.</hi> 1651</item>
+                  <item>36 <hi>Ath. Kircheri</hi> Hiſtoria Euſtachio-Mariana. <hi>Romae.</hi> 1665</item>
+                  <item>37 <hi>Tho. Barlow</hi> Exercitationes aliquot Metaphyſicae de Deo. <hi>Ononiae.</hi> 1658</item>
+                  <item>38 <hi>Jo. Crandon</hi> againſt Mr. <hi>Baxter</hi>'s Aphoriſms.</item>
+                  <item>39 <hi>Sepher Finah Rabbi</hi> Hebraice 4. <hi>Amſt.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>IN OCTAVO.</head>
+                  <item>1. <hi>L<g ref="char:V">Ʋ</g>ciani</hi> Opera Greaco-Lar. 4 Vol. <hi>Baſit.</hi> 1563</item>
+                  <item>2 <hi>Plautus Gronovii</hi> cum notis variorum. <hi>Lugd. Bas.</hi> 1664</item>
+                  <item>3 Buxtorfii Theſaurus Grammaticus. <hi>Baſil.</hi> 1629</item>
+                  <item>4 —Lexicon Hebraicum &amp; Chaldaicum. 1621</item>
+                  <item>5 —Gram Chald. &amp; Syriaca. 1615</item>
+                  <item>6 —Inſtitutio Epiſtolaris. 1629</item>
+                  <item>7 —de Abbreyiaturis, &amp; de Bibliotheca Rabbinica. 1613</item>
+                  <item>8 <hi>Grolius</hi> de jure Belli &amp; Pacis. <hi>Amſt.</hi> 1616</item>
+                  <item>9 —Februa in M. Capellam de Philologia &amp; Artibus liberalibus. 1599</item>
+                  <item>10 —de Imperio ſummarum Poteſtatum. 1647</item>
+                  <item>11 —Via ad pacem, annotata in Caſſandrum, <hi>&amp;c.</hi> 1642</item>
+                  <item>12 —Riveti Animadverſiones in Annotata <hi>Gretii.</hi>
+                  </item>
+                  <item>13 —Grotii Animadverſiones in Animadverſiones <hi>Riveti,</hi>
+                  </item>
+                  <item>14 —Riveti Examen Animadverſionum <hi>Grotii,</hi>
+                  </item>
+                  <item>15 —Grotii votum pro pace Eccleſiaſtica.</item>
+                  <pb n="3" facs="tcp:97018:2"/>
+                  <item>16 —Riveti Apologeticus contra <hi>Grotii</hi> votum. 1643</item>
+                  <item>17 —Grotii Diſcuſſio Apologetici <hi>Rivetiani.</hi> 1645</item>
+                  <item>18 —Riveti Diſcuſſionis <hi>Grotianae</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1646</item>
+                  <item>19 —de Antichriſto cum Mareſii refutatione. 1640</item>
+                  <item>20 —Explicatio Decalogi, de Fide &amp; Operibus, <hi>&amp;c.</hi>
+                  </item>
+                  <item>21 <hi>Laurentii Hugo Grotius</hi> Papizans. 1642</item>
+                  <item>22 <hi>Salmaſius</hi> in Tertullianum de pallio. <hi>Lugd. Bat.</hi> 1656</item>
+                  <item>23 —de caeſarie virorum &amp; mulierum coma. 1644</item>
+                  <item>24 —de Helleniſtica. 1643</item>
+                  <item>25 —Funus Linguae Helleniſticae. 1643</item>
+                  <item>26 —de Uſuris. 1638</item>
+                  <item>27 —de modo Uſurarum. 1639</item>
+                  <item>28 —de foenere trapezitico. 1640</item>
+                  <item>29 —de Annis climactericis. 1648</item>
+                  <item>30 —Obſervat. ad jus Atticum &amp; Romanum. 1645</item>
+                  <item>31 —Confutatio Carvati Theologi. 1640</item>
+                  <item>32 —Interpretatio Hippocratis Aphoriſmi. 1640</item>
+                  <item>33 —de Epiſcopis &amp; Presbyteris. 1641</item>
+                  <item>34 <hi>Spanhemii</hi> Exercitationes de Gratia Univerſali, 3 Vol. <hi>L. B.</hi> 1646</item>
+                  <item>35 <hi>Fulleri</hi> Miſcellanea Sacra. <hi>Heidelb.</hi> 1618</item>
+                  <item>36 Liturgia Anglicana, &amp; Pſalterium Graecè. <hi>Lond.</hi> 1638</item>
+                  <item>37 Prae-Adamitae.</item>
+                  <item>38 <hi>Heurnius</hi> de vocatione Ethnicorum &amp; Judaeorum. 1628</item>
+                  <item>39 <hi>Curio</hi> de amplitudine miſericordiae. Fr. Spirae deſperation is Hiſtoria, <hi>&amp;c. Baſil.</hi> 1550</item>
+                  <item>40 <hi>Burgerſdicii</hi> Logica. <hi>Lugd. Bat.</hi> 1645</item>
+                  <item>41 <hi>Magiri</hi> Phyſica, <hi>&amp; Bartholini</hi> Metaphyſica. 1619</item>
+                  <item>42 <hi>Wendelini</hi> Phyſica, 2 Vol. <hi>Franc.</hi> 1649</item>
+                  <item>43 <hi>Baſſonis</hi> Philoſophia Naturalis adverſus Atiſtotelem. <hi>Amſt.</hi> 1649</item>
+                  <item>44 <hi>Scaliger</hi> de ſubtilitate. 1607</item>
+                  <item>45 <hi>Jo. Bodin</hi> de la Republique. 1577</item>
+                  <item>46 —Ejuſd. Theatrum Naturae. 1605</item>
+                  <item>47 <hi>Ciceronis</hi> Opera cum annotationibus, in 5. Vol. <hi>Fr.</hi> 1609</item>
+                  <item>48 <hi>Tileni</hi> Syntagma Diſputationum Theol. <hi>Gen.</hi> 1622</item>
+                  <item>49 Synopſis purioris Theologiae profeſſ. Leidenſium. <hi>Lugd. Bat.</hi> 1652</item>
+                  <item>50 Diſcurſus Politicus pro polygamia.</item>
+                  <item>51 <hi>Nic. Vedel.</hi> Ration. Theolog. ſeu de Neoeſ. princip. ration. in arg. Theol. <hi>Gen.</hi> 1628</item>
+                  <item>52 Le Nouveau Teſtament. en Francois. à <hi>Geneve.</hi> 1667</item>
+                  <item>53 <hi>Jo. Euſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h. Nierembergius</hi> de Adoratione in Spiritu &amp; Veritate. <hi>Antuirp.</hi> 1631</item>
+                  <item>54 <hi>Fr. Euſtachii</hi> ſumma Philoſophiae Quadripartita. <hi>Genevae.</hi> 1647</item>
+                  <item>55 <hi>Lib. Fromondi</hi> Diſſertationes de Cometa Anni 1618. Et Meteorolog. <hi>Lond.</hi> 1670</item>
+                  <item>56 <hi>Chriſtoph. Cartwrighti</hi> Electa Thargumico-Rabb. five Annotationes in Exod. 1658</item>
+                  <item>57 <hi>Ant. Poſſevini</hi> Cultura Ingeniorum. <hi>Coloniae Agrippinae.</hi> 1610</item>
+                  <item>58 <hi>Rob. Sanderſoni</hi> Praelectiones 7. de Juramenti Promiſſorii Obligatione. 1647</item>
+                  <item>59 <hi>Cenſorinus</hi> de Die Natali Ad. Q. Caerellium. <hi>Venetiis.</hi> 1581</item>
+                  <item>60 <hi>Jo. Barclaii</hi> Argenis. <hi>Cantabrigiae.</hi> 1673</item>
+                  <item>61 <hi>Gab. du Gres</hi> Compendium Grammaticae Gallicae. <hi>Cantabrigiae.</hi> 1636</item>
+                  <item>62 <hi>P. Rami</hi> Dialecticae Libri duo. <hi>Cantabrigiae.</hi> 1672</item>
+                  <item>63 <hi>P. Gaſſendus</hi> Mirrour of true Nobility, or Life of <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iresk.</hi> 1657</item>
+                  <item>64 <hi>Jo. Serjeant</hi>'s Faith Vindicated from poſſibility of Falſhood. 1667</item>
+                  <item>65 Hiſtory of the late Revolution of the Empire of the Great <hi>Mogel.</hi> Vol. 1. 1671</item>
+                  <item>66 <hi>Hopton</hi>'s Concordance of years.</item>
+                  <item>67 Treatiſe of Moral Philoſophy, containing the ſayings of the Wiſe. 1600</item>
+                  <item>68 Collection of ſuch of the Orders heretofore uſed in <hi>Chancery.</hi> 1669</item>
+                  <item>69 Biſhop of <hi>Landaff</hi> his Prayers preſervative. <hi>London.</hi> 1625</item>
+                  <item>70 Myſtery of Jeſuitiſm: Third Part. <hi>London.</hi> 1664</item>
+                  <item>71 Analecta ſacra nova &amp; mira de Rebus Catholicorum in Hibernia. <hi>Coloniae.</hi> 1617</item>
+                  <pb n="4" facs="tcp:97018:3"/>
+                  <item>72 <hi>Geo. Ragutii</hi> Epiſtolarum Mathemat. ſeu de Divinatione, Libri duo. <hi>Pariſ.</hi> 1623</item>
+                  <item>73 <hi>Fr. Maurolyci</hi> &amp; aliorum Coſmographia. <hi>Pariſiis.</hi> 1551</item>
+                  <item>73 <hi>Ant. Mizaldi</hi> Opera quaedam mathematica. <hi>Lutetiae.</hi> 1571</item>
+                  <item>74 <hi>Gul. Turneri</hi> &amp; aliorum Hiſtoria brevis &amp; Dialogus de Avibus. <hi>Col.</hi> 1544</item>
+                  <item>75 <hi>Bythueri (Vict.)</hi> Clavis Ling. Sanct. Univerſ. voces Pentat. complect. <hi>Cant.</hi> 1648</item>
+                  <item>75 Pentateuchus Hebraicè Ex Officina <hi>Plant.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>IN DUODECIMO.</head>
+                  <item>1 <hi>STrada</hi> de Bello Belgico, 2 Vol. 1648</item>
+                  <item>2 —Proluſiones Academicae. 1658</item>
+                  <item>3 Jamblichus, Proclus, Porphyr. Pſellus, Pimander. 1570</item>
+                  <item>4 Theſaur. Philoſ. moralis, &amp; Plat. Gnomolog. Gr. L. 1613</item>
+                  <item>5 <hi>Grotius</hi> de veritate Religionis Chriſtianae. 1633</item>
+                  <item>6 —Apologeticus corum qui Hollandiae praefuerunt, ante 1618. <hi>Pariſ.</hi> 1640</item>
+                  <item>7 —Diſquiſſitio de Pelagianis Dogmatibus. 1640</item>
+                  <item>8 —Epiſtolae ad Gallos. 1650</item>
+                  <item>9 —Diſcourſes in Engliſh. 1652</item>
+                  <item>10 <hi>Hogelandi</hi> cogitationes de Dei exiſtontia, anima, &amp; oeconomia corporis. 1646</item>
+                  <item>11 <hi>Cambdeni</hi> Britannia cum Tabulis. 1639</item>
+                  <item>12 <hi>Stella</hi> de Vitis Pontificum.</item>
+                  <item>13 Hiſtoria retunt Montis reſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in Scotia. 1642</item>
+                  <item>14 Agrippa de vanitate Scientiarum. 162<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>15 Les Oeuyres de Fr. Rabelais.</item>
+                  <item>16 Reſpublicae apud Elſivirios.</item>
+                  <item>17 —Daniae, Norwegiae, Holſatiae, Iſlandica.</item>
+                  <item>18 —Scotiae &amp; Hiberniae.</item>
+                  <item>19 —Angliae &amp; Venetorum, eod. Vol.</item>
+                  <item>20 —Helvetiornm.</item>
+                  <item>21 —Moſcoviae &amp; Tartariae.</item>
+                  <item>22 —Lutzenburgenſis, Hannoniae &amp; Namureonſis.</item>
+                  <item>23 —Hanſeaticae.</item>
+                  <item>24 —Romana.</item>
+                  <item>25 —Italiae.</item>
+                  <item>26 —Hiſpaniae.</item>
+                  <item>27 —de Monarchia Hiſpanica Campanellae.</item>
+                  <item>28 —Poloniae, Lituaniae, Pruſſiae, Livoniae, <hi>&amp;c.</hi>
+                  </item>
+                  <item>29 —Introductio in omnes Reſpublicas.</item>
+                  <item>30 <hi>Matt. Devarius</hi> de Graecae Linguae Particulis. <hi>Londini.</hi> 1657</item>
+                  <item>31 Liber Pſalmorum Hebraice, cum Verſione Latina S. Pagnini. <hi>Baſileae.</hi> 1662</item>
+                  <item>32 <hi>Tho. Mori</hi> Utopia. <hi>Hanoviae.</hi> 1613</item>
+                  <item>33 Tyrocinium Chymicum &amp; Mulleri Miracula Chymica. 1611</item>
+                  <item>34 <hi>Auli Gellii</hi> Noctes Atticae 16<hi rend="sup">o</hi>. <hi>Genevae.</hi> 1621</item>
+                  <item>35 <hi>Rob. Keuchenii</hi> Antoninus Pius, five in Vit. Anton. Pii Excurſ. Polit. <hi>Amſt.</hi> 1667</item>
+                  <item>36 <hi>Rich. Watſoni</hi> Epiſtolaris Diatribe de Fide Rationali &amp; Gratiâ ſalutari. 1662</item>
+                  <item>37 Foederati Belgii Alcedonia, five de Pace Belgica Diſſertatio Orator. <hi>Lugd. B.</hi> 1667</item>
+                  <item>38 <hi>A. O.</hi> Cenſura Candidatorum Sceptri Polonici. 1669</item>
+                  <item>39 <hi>Steph. Curcellaei</hi> Diatriba de Eſu Sanguinis, <hi>&amp;c. Amstelodami.</hi> 1659</item>
+                  <item>40 <hi>Ant. Mizaldi</hi> Centuriae IX. Memorabilium, Utilium, <hi>&amp;c.</hi> 16. <hi>Francof.</hi> 1592</item>
+                  <item>41 <hi>C. Plinii</hi> ſecundi Epiſtolae &amp; Panegyricus 16. <hi>Genevae.</hi> 1638</item>
+                  <item>42 <hi>Bellarminus</hi> de AEterna Felicitate Sanctorum, 24. <hi>Coloniae.</hi> 1626</item>
+                  <item>43 <hi>Gul. Poſtellus</hi> de Univerſitate 24. <hi>Lugduni Batavorum.</hi> 1635</item>
+                  <item>44 <hi>Cor. Tacitus</hi> 24. <hi>Amstelodami.</hi> 1649</item>
+                  <item>45 <hi>M. An. Lucani</hi> Pharſalia 24. <hi>Plantin.</hi> 1593</item>
+                  <item>46 <hi>L. An. Sonecae</hi> de Vita Beata, <hi>&amp;c.</hi> 24. (caret Tir.)</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
